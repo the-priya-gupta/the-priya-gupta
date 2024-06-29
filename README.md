@@ -3,8 +3,6 @@
 <img align="center" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScouiohAZq8VFzlNJr7SKT6LhnQY4rZegwthh1FTrfww&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-priya-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="the-priya-gupta" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-priya-gupta" alt="the-priya-gupta" /></a> </p>
-
 - 🌱 I’m currently learning **Jest using puppeteer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/the-priya-gupta](https://github.com/the-priya-gupta)
@@ -23,6 +21,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/the-priya-gupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/the-priya-gupta/" height="30" width="40" /></a>
 </p>
 
-ps://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-priya-gupta&show_icons=true&locale=en&layout=compact" alt="the-priya-gupta" /></p>
